@@ -1,8 +1,12 @@
-<h1 align="center"> DONGHOON SHIN </h1>
+Welcome to the Algorithm wiki!
+## 🧑‍💻 Experience
+- **boostcamp (2020.07 ~ 2020.12) | 웹 풀스택**
+
 
 <div align="center">
-  
-[![hoon](https://github-readme-stats.vercel.app/api?username=dh00n)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=dh00n" width="300px">
 
 </div>
 
