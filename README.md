@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center"> DONGHOON SHIN </h1>
+
+<div align="center">
+  
+[![hoon](https://github-readme-stats.vercel.app/api?username=dh00n)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 
 <!--
 **dh00n/dh00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
