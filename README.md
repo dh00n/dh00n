@@ -1,4 +1,3 @@
-Welcome to the Algorithm wiki!
 ## 🧑‍💻 Experience
 - **boostcamp (2020.07 ~ 2020.12) | 웹 풀스택**
 
