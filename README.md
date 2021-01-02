@@ -5,10 +5,10 @@
 <div align="center">
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=dh00n" width="300px">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dh00n&show_icons=true&theme=onedark" width="300px">
 
 </div>
-
 
 
 <!--
